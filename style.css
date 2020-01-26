@@ -1,9 +1,18 @@
 body {
     background-image: url(https://i.ibb.co/P9ZXs8Q/YTlogo-BGtile-1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+div {
+    width: 1200px;
+    height: 2000px;
+    margin-left: 375px;
+    background-color: white;
+    border-style: dotted;
+    border-color: rgb(138, 137, 137);
 }
 h1 { 
-    color: rgb(0, 0, 0);
+    color: rgb(138, 137, 137);
+    font-size: 300%;
     text-align: center;  
 }
