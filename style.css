@@ -8,11 +8,14 @@ div {
     height: 2000px;
     margin-left: 375px;
     background-color: white;
-    border-style: dotted;
+    border-style: double;
     border-color: rgb(138, 137, 137);
+    border-width: 20px;
+    border-radius: 50px;
 }
 h1 { 
     color: rgb(138, 137, 137);
     font-size: 300%;
     text-align: center;  
+    padding-top: 10px;
 }
